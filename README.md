@@ -1,4 +1,4 @@
-## As-salamualykum Wa-rahamatullah 👋
+## As-salamualykum Wa-rahamatullah‼️
 - 🌱 I’m currently learning: Web Design & Development.
 - ⚡ Fun fact: I Love Code.
 - ## 🌐 Socials:
