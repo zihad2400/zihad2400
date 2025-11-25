@@ -1,6 +1,6 @@
 ## As-salamualykum Wa-rahamatullah‼️
-- 🌱 I’m currently learning: Web Design & Development.
-- ⚡ Fun fact: I Love Code.
+- 🌱 I’m currently learning: Web Design & Development..‼️
+- ⚡ Fun fact: I Love Code..‼️
 - ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zihadbinsamsu2400@gmail.com) 
 # 💻 Tech Stack:
