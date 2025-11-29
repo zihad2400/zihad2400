@@ -1,8 +1,6 @@
 ## As-salamualykum Wa-rahamatullah‼️
 - 🌱 I’m currently learning:Programming...⚛️‼️
 - ⚡ Fun fact: I Love Programming..♨️‼️
-- ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zihadbinsamsu2400@gmail.com) 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
